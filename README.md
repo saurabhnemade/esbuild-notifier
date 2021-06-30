@@ -1,8 +1,9 @@
-# esbuild-notifier
+# 🚀 esbuild-notifier 🚀
 
-Inspired by webpack-build-notifier(https://www.npmjs.com/package/webpack-build-notifier).
+Inspired by webpack-build-notifier(https://www.npmjs.com/package/webpack-build-notifier). Credits to @RoccoC 
 
-Stumbled upon this awsome build tool named `esbuild` (https://esbuild.github.io/) at 2 A.M. in morning and found that no one has yet created build notifier plugin for this. So starting this project to have a nice build notifier.
+
+Stumbled upon this awsome build tool named `esbuild` (https://esbuild.github.io/) at 2 in morning and found that no one has yet created build notifier plugin for this. So starting this project to have a nice build notifier. 🙌
 
 # Status
 
