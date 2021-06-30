@@ -1,5 +1,5 @@
 {
-  "name": "esbuild-webpack-notifier",
+  "name": "esbuild-notifier",
   "version": "1.0.0",
   "description": "Build Notifier for esbuild env",
   "main": "index.js",
