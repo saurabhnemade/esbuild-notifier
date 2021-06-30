@@ -1,5 +1,9 @@
 # 🚀 esbuild-notifier 🚀
 
+[![npm version](https://badge.fury.io/js/esbuild-notifier.svg)](https://badge.fury.io/js/esbuild-notifier)
+
+
+
 Inspired by webpack-build-notifier(https://www.npmjs.com/package/webpack-build-notifier). Credits to @RoccoC 
 
 
