@@ -1,0 +1,20 @@
+{
+    "name": "esbuild-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node config/build.js",
+        "dev": "node config/dev.js",
+        "test": "echo \"Error: no test specified\" && exit 1",
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+        "esbuild": "^0.12.12"
+    },
+    "dependencies": {
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2"
+    }
+}
